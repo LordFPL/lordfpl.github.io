@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Sys Admin Blog... Again...]]></title>
-  <link href="http://LordFPL.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: test | Sys Admin Blog... Again...]]></title>
+  <link href="http://LordFPL.github.io/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://LordFPL.github.io/"/>
   <updated>2013-10-04T15:26:18+02:00</updated>
   <id>http://LordFPL.github.io/</id>
@@ -18,7 +18,7 @@
     <link href="http://LordFPL.github.io/blog/2013/10/04/essai-de-blog/"/>
     <updated>2013-10-04T15:24:00+02:00</updated>
     <id>http://LordFPL.github.io/blog/2013/10/04/essai-de-blog</id>
-    <content type="html"><![CDATA[<p>Vu le nombre de blogs que je vois un peu partout qui m&#8217;aide beaucoup dans mon quotidien d&#8217;admin sys&hellip; pourquoi n&#8217;en ferai-je pas autant ?
+    <content type="html"><![CDATA[<p>Vu le nombre de blogs que je vois un peu partout qui m'aide beaucoup dans mon quotidien d'admin sys&hellip; pourquoi n'en ferai-je pas autant ?
 Bon, au pire ça me fera un pense bête&hellip; :)</p>
 ]]></content>
   </entry>
